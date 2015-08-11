@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "This website"
+date:   2015-08-10 04:01:40
+permalink: /this-website/
+categories: jekyll update
+
+---
+
+This website
+========
+
+This website is made using different tools. Though it's a static site, and could therefore be pretty easily made with raw HTML, a recent experiment with WordPress made me eager to find an easy solution to maintain simple websites. Being very fond of ruby as a scripting language, I quickly found out about [Jekyll](http://jekyllrb.com/ "Jekyll homepage"), a ruby made solution to easily create _readonly_ blogs and simple informative web pages. 
+
+Jekyll
+---------
+
+You could compare Jekyll to a tiny, developer oriented WordPress. No back office here, as there is no database. The resulting websites are as static as they come, but with the advantage of being compiled before hand in html.
+
+It comes with a bunch of tools that I'm going to describe here, because I like describing stuff.
+
+
+Markdown
+-----------------
+
+[Markdown](http://daringfireball.net/projects/markdown/ "Markdown homepage") is an interesting specimen. It's something inbetween your regular .html page and the Rich Textboxes (such as TinyMCE) that you could find on the back office of WordPress. While it allows you to write any HTML tag on your page, it is made to be easily readable, and compiles into a nice and browser friendly page. Made for designers and developers, it feels like you are casually writing in a basic text editor, only worrying about the content of your page and which part you should emphasis rather than how the paragraphs will appear.
