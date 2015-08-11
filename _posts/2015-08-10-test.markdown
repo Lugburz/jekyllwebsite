@@ -1,0 +1,58 @@
+---
+layout: post
+title:  "Résumé"
+date:   2015-08-10 04:01:40
+permalink: /resume/
+categories: jekyll update
+custom_js:
+- jquery.min
+- jquery-ui/jquery-ui.min
+- resume
+
+custom_css:
+- jquery-ui/jquery-ui.min
+
+---
+
+Welcome to my resume
+============
+
+What is it about
+--------------------------
+
+That's right, *what is this whole website about?* I pondered a little over the usefulness of a website myself, as it might probably contains exactly the same thing as a regular pdf file résumé. Though, considering the fact that my previous job mostly included intranet softwares, nothing remains for you to assert of my actual experience in web programming. 
+
+As naive as I can get, I tend to think that nobody in his right mind would lie on his résumé. But you might have good reasons to think otherwise, and that's precisly what this website is for, a little showcase of my habilities as a web programmer.
+
+What are my main skills
+------------------------------------
+
+As I tend to specify myself in web programming, that's the characteristic I will emphasis the most here. However, I will also find some place to expose my other skills for who it might matter.
+
+Without further ado, my *résumé* !
+
+###Web
+
+For two years, I've mostly worked with ASP.Net technologies for intranet applications.  
+
+* __ASP.Net__ itself, both __WebForm__ and __MVC__. Though I have a stronger knowledge of WebForm, I have a foundamental preference for the MVC approach.
+* __JavaScript/JQuery__, including a bunch of usfull plugins such as [_JQuery UI_](https://jqueryui.com/ "JQuery UI"),  [_jTable_](http://www.jtable.org/ "jTable") or [_FullCalendar_](http://fullcalendar.io/ "FullCalendar").
+* __JSON__ and __XML__  feeds, mostly through __Ajax__ scripts in asynchronous webpages, but also for direct communication with client applications.
+* __WCF__ webservices. An interesting project made us require these for _pseudo-real-time_ communication between Windows CE mobile applications and the main database.
+* __Microsoft Reporting Services__, to create advanced documents such as picking lists or other printable items. Although not a web component as is, I've used it a lot in such context.
+
+<p class="text-sorting">
+<em>
+For your own entertainment, every list in this page is sortable. Because why not. 
+</em>
+</p>
+
+###Database
+
+Almost all the projects I've been working on involved a database connection, most of which were direct MSSQL connections with important business related activities (triggers, procedures, view...). Working on high level logistic applications, most of the views to display in the application were pretty specific and not always well thought by the client before hand, which would call for drastic SQL queries, involving some obscure TSQL statements. Therefore, through this seemingly chaotic environment, I can say I acquired a great deal of knowledge in MSSQL's TSQL.
+
+So here are the tools I mainly used.
+
+* __SQL Server Management Tools__
+* __SSIS Packages & MSSQL Agent__, for specific tasks such as daily files download, _bulk insert_ and treatment.
+* __Entity Framework__
